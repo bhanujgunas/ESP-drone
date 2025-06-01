@@ -7,8 +7,8 @@
 MPU6050 mpu;
 
 // WiFi credentials
-const char* ssid = ".";
-const char* password = "4pnumtvzvd";
+const char* ssid = "wifiname";
+const char* password = "password";
 
 WebServer server(80);
 
